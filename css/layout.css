@@ -23,4 +23,12 @@
 }
 
 /* Posititoning Classes */
-
+h2 {
+    column-span: all;
+}
+div {
+    column-width: 100px;
+}
+div {
+    column-rule: 1px solid lightblue;
+}
